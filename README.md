@@ -57,6 +57,9 @@ O projeto está organizado em:
 
     * Atributos: `Nome`, `Preco`, `Quantidade`
     * Métodos: `AdicionarProdutos()`, `RemoverProdutos()`
-
+ PROGRAM 
 <img width="1410" height="674" alt="image" src="https://github.com/user-attachments/assets/b935c9a6-3df6-4a0b-b63a-ebfc70aa682e" />
+CLASSE PRODUTO
+<img width="1031" height="627" alt="image" src="https://github.com/user-attachments/assets/d5fbca46-19b0-48ef-b256-884f37bcd7c3" />
+
 
